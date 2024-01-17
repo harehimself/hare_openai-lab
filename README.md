@@ -1,4 +1,4 @@
-![Banner](https://github.com/harehimself/hare_openai-lab/blob/80ae179315c6a0e62ae48e7a338b48fc64c4c8f8/Hare_OpenAI-Lab.png)
+![Banner](https://github.com/harehimself/hare_openai-lab/blob/37eceec0d2dca062de80ea5c5d2d757cb7f29efa/Hare_OpenAI-Lab.png)
 > Exploring and experimenting with OpenAI's advanced AI models.
 
 [![Contributors](https://img.shields.io/github/contributors/yourusername/reponame)](https://github.com/yourusername/reponame/graphs/contributors)
